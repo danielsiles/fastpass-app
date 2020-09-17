@@ -108,7 +108,7 @@ const EstablishmentScreen = ({navigation, route: {params}}) => {
             longitude={branch.longitude}
             zoom={15}
             size={{width: WINDOW_WIDTH - 20, height: 200}}
-            apiKey={'AIzaSyC8Eqq_tCDDi8UMD2JG3rS8NkHMfO3IFyg'}
+            
           />
         </View>
       </StackHeaderScrollView>
