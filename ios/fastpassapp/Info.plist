@@ -53,5 +53,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+  <key>NSLocationWhenInUseUsageDescription</key>
+  <string>This app uses the location in use to optimize search queries.</string>
+  <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+  <string>This app uses the location in use to optimize search queries.</string>
+  <key>NSLocationAlwaysUsageDescription</key>
+  <string>This app uses the location in use to optimize search queries.</string>
 </dict>
 </plist>
